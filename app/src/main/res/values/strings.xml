@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Test12 SaveSQLite</string>
+    <string name="EnterText1">Name</string>
+    <string name="EnterText2">Emale</string>
+    <string name="ButText1">Add</string>
+    <string name="ButText2">Read</string>
+    <string name="ButText3">Clear</string>
+
 </resources>
